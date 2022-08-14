@@ -1,4 +1,3 @@
 build:
-web: python bot_webhook.py
 run:
   worker: bash start
