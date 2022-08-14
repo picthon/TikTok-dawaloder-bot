@@ -1,3 +1,3 @@
-#غير توكن بوت
+import  os
 #توكن بوت من بوت فاذر
-token_bot = "5477859616:AAEIiDm7ajA-XkqY05lJUYGtfbKBZHQZfmQ"
+token_bot = os.environ.get("BOT_TOKEN")
